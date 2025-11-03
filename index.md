@@ -18,7 +18,7 @@
 </script>
 {% endraw %}
 
-> *It is the East And*               
+> *It is the East, And*               
 > *Juliet is the Sun*           
 > *Arise fair Sun!*            
 > -- [Romeo](https://www.gutenberg.org/files/1513/1513-h/1513-h.htm)
