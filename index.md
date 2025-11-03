@@ -21,7 +21,7 @@
 > *It is the East And*               
 > *Juliet is the Sun*           
 > *Arise fair Sun!*            
-> -- Romeo
+> -- [Romeo](https://www.gutenberg.org/files/1513/1513-h/1513-h.htm)
 
 # 1
 That’s a profound symmetry—and biologically, it’s dead-on.
